@@ -168,12 +168,6 @@ Tech-UI gradient background
 
 Animated input focus ring
 
-📸 Screenshots
-
-(You can add your screenshots here)
-
-![App Screenshot](screenshot.png)
-
 📦 Technologies Used
 Machine Learning
 
